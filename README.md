@@ -18,7 +18,7 @@ Included in the template:
 - 32 MHz high-frequency crystal and associated components
 - 32.768 kHz low-frequency crystal
 - MCU supply decoupling
-- DC/DC regulator support components
+- Internal 0.9V regulator components
 - RF matching network
 - BLE RF routing
 - Murata MM8130-2600RA2 RF connector
@@ -108,9 +108,9 @@ J2 uses a **Tag-Connect TC2050** style footprint, allowing production programmin
 
 This section is intended to remain in derived designs so that new boards have a consistent programming interface.
 
-## Power and Decoupling
+## Internal regulator and Decoupling
 
-The template includes the local supply filtering, decoupling, and regulator support components used around the MCU.
+The template includes the local supply filtering, decoupling, and internal 0.9V regulator support components used around the MCU.
 
 Current BOM values include:
 
