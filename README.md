@@ -1,4 +1,4 @@
-# nRF54LXX Hardware Template
+# nRF54LXX Hardware Template (QFN-48)
 
 Reusable KiCad schematic and PCB layout template for designs based on the Nordic Semiconductor **nRF54L15 / nRF54L10 / nRF54L05** family.
 
